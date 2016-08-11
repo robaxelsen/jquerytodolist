@@ -1,4 +1,4 @@
-# jQuery To-Do List App
+# jQuery Todo List App
 A simple jQuery todo list app with features such as: add todos, remove todos,
 toggle input field on/off.
 
